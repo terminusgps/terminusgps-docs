@@ -1,4 +1,5 @@
 *.
 !.gitignore
+!.readthedocs.yaml
 
 docs/build/
